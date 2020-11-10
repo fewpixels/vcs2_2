@@ -6,5 +6,6 @@ Pizza:
 
 Ontbijt:
 - Brood
+- boter
 - Eieren
 - Sinaasappels
